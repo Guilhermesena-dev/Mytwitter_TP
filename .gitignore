@@ -1,0 +1,41 @@
+# Arquivos de byte-code Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuição/empacotamento
+dist/
+build/
+*.egg-info/
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+.env
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Arquivos de teste e cobertura
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*~
+
+# Arquivos de configuração local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local 
