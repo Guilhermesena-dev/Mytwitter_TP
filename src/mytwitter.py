@@ -1,6 +1,6 @@
 from .excecoes import UJCException, UNCException, PIException, PDException, MFPException, PEException, SIException
-from .perfil import *  # Módulo com a classe Perfil (supondo que você já a tenha)
-from .RepositorioUsuarios import *  # Módulo com a classe RepositorioUsuarios
+from .perfil import *  
+from .RepositorioUsuarios import *  
 from datetime import datetime
 
 class MyTwitter:
